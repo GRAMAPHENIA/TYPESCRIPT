@@ -1,1 +1,7 @@
-console.log("JALO JOAN ET SE");
+let blanco: boolean = false;
+
+if (blanco) {
+  console.log("Color correcto");
+} else {
+  console.log("Color incorrecto");
+}
